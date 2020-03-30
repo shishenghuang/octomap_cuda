@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: octomap_ros
+Description: Description of octomap_ros
+Version: 0.4.0
+Cflags: -I${prefix}/include -I/opt/ros/kinetic/include
+Libs: -L${prefix}/lib -loctomap_ros /opt/ros/kinetic/lib/liboctomap.so /opt/ros/kinetic/lib/liboctomath.so
+Requires: octomap_msgs sensor_msgs tf

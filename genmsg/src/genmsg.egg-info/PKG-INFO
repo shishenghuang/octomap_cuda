@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: genmsg
+Version: 0.5.15
+Summary: Standalone Python library for generating ROS message and service data structures for various languages.
+Home-page: http://wiki.ros.org/genmsg
+Author: Troy Straszheim, Morten Kjaergaard, Ken Conley, Dirk Thomas
+Maintainer: Dirk Thomas
+Maintainer-email: dthomas@osrfoundation.org
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

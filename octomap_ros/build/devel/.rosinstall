@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/huan/git/octomap_cuda/octomap_ros/build/devel/setup.sh

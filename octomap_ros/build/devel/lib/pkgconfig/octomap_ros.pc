@@ -1,0 +1,8 @@
+prefix=/home/huan/git/octomap_cuda/octomap_ros/build/devel
+
+Name: octomap_ros
+Description: Description of octomap_ros
+Version: 0.4.0
+Cflags: -I/home/huan/git/octomap_cuda/octomap_ros/include -I/opt/ros/kinetic/include
+Libs: -L${prefix}/lib -loctomap_ros /opt/ros/kinetic/lib/liboctomap.so /opt/ros/kinetic/lib/liboctomath.so
+Requires: octomap_msgs sensor_msgs tf
